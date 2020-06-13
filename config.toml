@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"  # Include trailing slash
+baseurl = "https://master.d27f7kskyvko78.amplifyapp.com"  # Include trailing slash
 title = "Laziness"
 theme = "hugo-swift-theme-master"
 author = "Steve Francia"
